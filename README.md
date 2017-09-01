@@ -4,6 +4,9 @@ This project is part of Udacity DLND. It is a Deep Convelutional Generative Adve
 
 ## Architecture
 text
+The architecture used in the original paper was ... 
+so I simplified it to be .... and I am still able to generate quite clear face. So, if you got more computation power, you should consider add one more layer to get better result.
+
 [image]
 
 ## MNIST
