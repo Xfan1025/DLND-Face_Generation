@@ -10,6 +10,7 @@ so I simplified it to be .... and I am still able to generate quite clear face. 
 [image]
 
 ## MNIST
+I only trained it for 2 epochs and already began to see .....  you should get better result if train it longer and try to tune the parameters....
 ![](https://github.com/Xfan1025/DLND-Face_Generation/blob/master/assets/mnist_test.gif)
 
 ## CelebA
