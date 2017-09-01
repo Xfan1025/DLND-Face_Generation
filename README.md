@@ -7,5 +7,6 @@ text
 [image]
 
 ## MNIST
+![](https://github.com/Xfan1025/DLND-Face_Generation/blob/master/assets/mnist_test.gif)
 
 ## CelebA
