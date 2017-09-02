@@ -4,7 +4,7 @@ This project is part of Udacity DLND. It is a Deep Convelutional Generative Adve
 
 ## Architecture
 
-The architecture of DC-GAN contains a generator and a discriminator.
+The architecture of DC-GAN contains a **generator** and a **discriminator**.
 
 The generator used in the [original paper](https://arxiv.org/pdf/1511.06434.pdf): 
 ![](https://github.com/Xfan1025/DLND-Face_Generation/blob/master/assets/dcgan.png)
