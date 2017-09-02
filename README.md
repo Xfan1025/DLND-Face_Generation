@@ -12,8 +12,10 @@ I have reduced the number of units in the generator and reduced the number of la
 
 ## MNIST
 I only trained it for 2 epochs. You should get better result if train it longer.
+
 ![](https://github.com/Xfan1025/DLND-Face_Generation/blob/master/assets/MNIST.gif)
 
 ## CelebA
 Trained after 2 epochs.
+
 ![](https://github.com/Xfan1025/DLND-Face_Generation/blob/master/assets/CelebA.gif)
