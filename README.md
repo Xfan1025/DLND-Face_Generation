@@ -4,7 +4,9 @@ This project is part of Udacity DLND. It is a Deep Convelutional Generative Adve
 
 ## Architecture
 
-The architecture used in the [original paper](https://arxiv.org/pdf/1511.06434.pdf): 
+The architecture of DC-GAN contains a generator and a discriminator.
+
+The generator used in the [original paper](https://arxiv.org/pdf/1511.06434.pdf): 
 ![](https://github.com/Xfan1025/DLND-Face_Generation/blob/master/assets/dcgan.png)
 
 I have reduced the number of units in the generator and reduced the number of layers for discriminator. I was still able to generate quite clear faces. So, if you got more computation power, you should try to make the network deeper to get better result.
